@@ -1,5 +1,5 @@
 # Pyrlang Term library
-git+git://github.com/Pyrlang/Term@master#egg=term
+git+git://github.com/Pyrlang/Term@85bdc60a1b54e638f1dcfe930cd9ce18df89fecb#egg=term
 
 # Documentation requirements
 Jinja2>=2.10.1
